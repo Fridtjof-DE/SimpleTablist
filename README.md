@@ -3,5 +3,6 @@
 [![Maintenance Badge](https://img.shields.io/maintenance/no/2020?style=flat-square)]()
 [![Issue Badge](https://img.shields.io/github/issues/Fridtjof-DE/SimpleTablist?style=flat-square)](https://github.com/Fridtjof-DE/SimpleTablist/issues)
 [![Discord Online Badge](https://img.shields.io/discord/698210072899223642?style=flat-square)](https://discord.gg/fXHcmTq)
+[![Download Badge](https://img.shields.io/ore/dt/simpletablist?style=flat-square)](https://ore.spongepowered.org/Fridtjof_DE/SimpleTablist)
 # SimpleTablist
  A Sponge plugin that allows you to customize your tablist with PlaceholderAPI support!
