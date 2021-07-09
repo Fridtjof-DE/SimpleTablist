@@ -33,7 +33,7 @@ import java.util.Optional;
         authors = {
                 "Fridtjof_DE"
         },
-        dependencies = {@Dependency(id = "spongeapi", version = "7.2.0"), @Dependency(id = "placeholderapi", version = "4.4", optional = true)}
+        dependencies = {@Dependency(id = "spongeapi", version = "7.3.0"), @Dependency(id = "placeholderapi", version = "4.4", optional = true)}
 )
 public class SimpleTablist {
 
